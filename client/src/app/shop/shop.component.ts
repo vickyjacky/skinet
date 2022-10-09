@@ -5,6 +5,7 @@ import { IType } from '../shared/models/productType';
 import { ShopParams } from '../shared/models/shopParams';
 import { ShopService } from './shop.service';
 
+
 @Component({
   selector: 'app-shop',
   templateUrl: './shop.component.html',
